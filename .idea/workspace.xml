@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="KeepNote=Step-Boilerplate-master.war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94c9f8ed-c74f-4b75-9bfb-7480e0fc3b87" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="KeepNote-Step1-Boilerplate" />
+  </component>
+  <component name="ProjectId" id="1S0beT5WvqDzFdcbMxrIT1C7FNO" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.12515645" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="com.poratu.idea.plugins.tomcat.setting.TomcatSettingConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.NoteRepositoryTest">
+    <configuration name="NoteRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="KeepNote-Step1-Boilerplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.keepnote.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.keepnote.test" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.keepnote.test.NoteRepositoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY">
+      <option name="DOC_BASE" value="$PROJECT_DIR$/src/main/webapp" />
+      <option name="DOC_MODULE_ROOT" value="" />
+      <option name="CONTEXT_PATH" value="/KeepNote-Step1-Boilerplate" />
+      <option name="TOMCAT_PORT" value="8080" />
+      <option name="AJP_PORT" value="8009" />
+      <option name="ADMIN_PORT" value="8005" />
+      <option name="VM_OPTIONS" value="" />
+      <option name="PASS_PARENT_ENV_OPTIONS" value="true" />
+      <option name="CLASS_NAME" value="" />
+      <option name="DEBUG" value="" />
+      <option name="DIGEST" value="" />
+      <option name="ROLE_NAME_COL" value="" />
+      <option name="USER_CRED_COL" value="" />
+      <option name="USER_NAME_COL" value="" />
+      <option name="USER_ROLE_TABLE" value="" />
+      <option name="USER_TABLE" value="" />
+      <option name="JNDI_GLOBAL" value="" />
+      <option name="JNDI_NAME" value="" />
+      <option name="JNDI_TYPE" value="" />
+      <option name="DATA_SOURCE_NAME" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tomcat" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY">
+      <option name="DOC_BASE" value="$PROJECT_DIR$/src/main/webapp" />
+      <option name="DOC_MODULE_ROOT" value="" />
+      <option name="CONTEXT_PATH" value="/KeepNote-Step1-Boilerplate" />
+      <option name="TOMCAT_PORT" value="8080" />
+      <option name="AJP_PORT" value="8009" />
+      <option name="ADMIN_PORT" value="8005" />
+      <option name="VM_OPTIONS" value="" />
+      <option name="PASS_PARENT_ENV_OPTIONS" value="true" />
+      <option name="CLASS_NAME" value="" />
+      <option name="DEBUG" value="" />
+      <option name="DIGEST" value="" />
+      <option name="ROLE_NAME_COL" value="" />
+      <option name="USER_CRED_COL" value="" />
+      <option name="USER_NAME_COL" value="" />
+      <option name="USER_ROLE_TABLE" value="" />
+      <option name="USER_TABLE" value="" />
+      <option name="JNDI_GLOBAL" value="" />
+      <option name="JNDI_NAME" value="" />
+      <option name="JNDI_TYPE" value="" />
+      <option name="DATA_SOURCE_NAME" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="KeepNote=Step-Boilerplate-master.war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.NoteRepositoryTest" />
+      <item itemvalue="Smart Tomcat.tomcat" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.NoteRepositoryTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94c9f8ed-c74f-4b75-9bfb-7480e0fc3b87" name="Default Changelist" comment="" />
+      <created>1570703555077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570703555077</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.jsp" />
+  </component>
+</project>

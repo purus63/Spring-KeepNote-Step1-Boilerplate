@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="KeepNote=Step-Boilerplate-master.war">
+    <output-path>$PROJECT_DIR$/target/artifacts/KeepNote_Step_Boilerplate_master_war</output-path>
+    <root id="root">
+      <element id="archive" name="KeepNote=Step-Boilerplate-master.war" />
+    </root>
+  </artifact>
+</component>
